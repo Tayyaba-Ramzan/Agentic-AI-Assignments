@@ -1,5 +1,3 @@
-# main.py
-
 import chainlit as cl
 import google.generativeai as genai
 import os
