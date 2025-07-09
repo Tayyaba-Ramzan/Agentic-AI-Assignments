@@ -27,7 +27,6 @@ Agentic-AI-Assignments/
 │
 ├── assignment-1/         # FAQ Agent (OpenAI + Chainlit)
 │   └── main.py
-│   └── screenshots/
 │
 ├── assignment-2/         # Math Tool Agent (Gemini)
 │   └── main.py
